@@ -727,7 +727,7 @@
       </organization>
       <licenses>
         <license>
-          <name>BSD style</name>
+          <name>The BSD License</name>
           <url>http://howl.objectweb.org/license.html</url>
         </license>
       </licenses>
@@ -763,7 +763,7 @@
       </organization>
       <licenses>
         <license>
-          <name>BSD style</name>
+          <name>The BSD License</name>
           <url>http://xstream.codehaus.com/license.html</url>
         </license>
       </licenses>
@@ -998,6 +998,348 @@
         <name>The Apache Software Foundation</name>
         <url>http://www.apache.org/</url>
       </organization>
+    </project>
+  </supplement>
+  <supplement>
+    <project>
+      <groupId>jline</groupId>
+      <artifactId>jline</artifactId>
+      <name>JLine</name>
+      <url>http://jline.sourceforge.net</url>
+      <organization>
+        <name>JLine</name>
+        <url>http://jline.sourceforge.net</url>
+      </organization>
+      <licenses>
+        <license>
+          <name>The BSD License</name>
+          <url>http://jline.sourceforge.net/license.html</url>
+        </license>
+      </licenses>
+    </project>
+  </supplement>
+  <supplement>
+    <project>
+      <groupId>org.mortbay.jetty</groupId>
+      <artifactId>jetty</artifactId>
+      <name>Jetty Server</name>
+      <url>http://jetty.mortbay.org/</url>
+      <organization>
+	    <name>Mort Bay Consulting</name>
+	    <url>http://www.mortbay.com</url>
+      </organization>
+      <licenses>
+        <license>
+          <name>The Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </project>
+  </supplement>
+  <supplement>
+    <project>
+      <groupId>org.mortbay.jetty</groupId>
+      <artifactId>jetty-util</artifactId>
+      <name>Jetty Utilities</name>
+      <url>http://jetty.mortbay.org/</url>
+      <organization>
+	    <name>Mort Bay Consulting</name>
+	    <url>http://www.mortbay.com</url>
+      </organization>
+      <licenses>
+        <license>
+          <name>The Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </project>
+  </supplement>
+  <supplement>
+    <project>
+      <groupId>org.ops4j.base</groupId>
+      <artifactId>ops4j-base-lang</artifactId>
+      <name>OPS4J Base - Lang</name>
+      <url>http://www.ops4j.org/projects/base/ops4j-base-lang</url>
+	  <organization>
+	    <name>OPS4J - Open Participation Software for Java</name>
+	    <url>http://www.ops4j.org/</url>
+	  </organization>
+      <licenses>
+        <license>
+          <name>The Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </project>
+  </supplement>
+  <supplement>
+    <project>
+      <groupId>org.ops4j.base</groupId>
+      <artifactId>ops4j-base-util-collections</artifactId>
+      <name>OPS4J Base - Util - Collections</name>
+      <url>http://www.ops4j.org/projects/base/ops4j-base-util-collections</url>
+	  <organization>
+	    <name>OPS4J - Open Participation Software for Java</name>
+	    <url>http://www.ops4j.org/</url>
+	  </organization>
+      <licenses>
+        <license>
+          <name>The Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </project>
+  </supplement>
+  <supplement>
+    <project>
+      <groupId>org.ops4j.base</groupId>
+      <artifactId>ops4j-base-util-xml</artifactId>
+      <name>OPS4J Base - Util - XML</name>
+      <url>http://www.ops4j.org/projects/base/ops4j-base-util-xml</url>
+	  <organization>
+	    <name>OPS4J - Open Participation Software for Java</name>
+	    <url>http://www.ops4j.org/</url>
+	  </organization>
+      <licenses>
+        <license>
+          <name>The Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </project>
+  </supplement>
+  <supplement>
+    <project>
+      <groupId>org.ops4j.pax.logging</groupId>
+      <artifactId>pax-logging-api</artifactId>
+      <name>OPS4J - Pax Logging API</name>
+      <url>http://www.ops4j.org/projects/pax/logging/pax-logging-api</url>
+	  <organization>
+	    <name>OPS4J - Open Participation Software for Java</name>
+	    <url>http://www.ops4j.org/</url>
+	  </organization>
+      <licenses>
+        <license>
+          <name>The Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </project>
+  </supplement>
+  <supplement>
+    <project>
+      <groupId>org.ops4j.pax.logging</groupId>
+      <artifactId>pax-logging-service</artifactId>
+      <name>OPS4J - Pax Logging Service</name>
+      <url>http://www.ops4j.org/projects/pax/logging/pax-logging-service</url>
+	  <organization>
+	    <name>OPS4J - Open Participation Software for Java</name>
+	    <url>http://www.ops4j.org/</url>
+	  </organization>
+      <licenses>
+        <license>
+          <name>The Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </project>
+  </supplement>
+  <supplement>
+    <project>
+      <groupId>org.ops4j.pax.swissbox</groupId>
+      <artifactId>pax-swissbox-core</artifactId>
+      <name>OPS4J Pax Swissbox - OSGi Core</name>
+      <url>http://www.ops4j.org/projects/pax/swissbox/pax-swissbox-core</url>
+	  <organization>
+	    <name>OPS4J - Open Participation Software for Java</name>
+	    <url>http://www.ops4j.org/</url>
+	  </organization>
+      <licenses>
+        <license>
+          <name>The Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </project>
+  </supplement>
+  <supplement>
+    <project>
+      <groupId>org.ops4j.pax.swissbox</groupId>
+      <artifactId>pax-swissbox-extender</artifactId>
+      <name>OPS4J Pax Swissbox - Extender</name>
+      <url>http://www.ops4j.org/projects/pax/swissbox/pax-swissbox-extender</url>
+	  <organization>
+	    <name>OPS4J - Open Participation Software for Java</name>
+	    <url>http://www.ops4j.org/</url>
+	  </organization>
+      <licenses>
+        <license>
+          <name>The Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </project>
+  </supplement>
+  <supplement>
+    <project>
+      <groupId>org.ops4j.pax.swissbox</groupId>
+      <artifactId>pax-swissbox-lifecycle</artifactId>
+      <name>OPS4J Pax Swissbox - Lifecycle</name>
+      <url>http://www.ops4j.org/projects/pax/swissbox/pax-swissbox-lifecycle</url>
+	  <organization>
+	    <name>OPS4J - Open Participation Software for Java</name>
+	    <url>http://www.ops4j.org/</url>
+	  </organization>
+      <licenses>
+        <license>
+          <name>The Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </project>
+  </supplement>
+  <supplement>
+    <project>
+      <groupId>org.ops4j.pax.swissbox</groupId>
+      <artifactId>pax-swissbox-optional-jcl</artifactId>
+      <name>OPS4J Pax Swissbox - Optional JCL</name>
+      <url>http://www.ops4j.org/projects/pax/swissbox/pax-swissbox-optional-jcl</url>
+	  <organization>
+	    <name>OPS4J - Open Participation Software for Java</name>
+	    <url>http://www.ops4j.org/</url>
+	  </organization>
+      <licenses>
+        <license>
+          <name>The Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </project>
+  </supplement>
+  <supplement>
+    <project>
+      <groupId>org.ops4j.pax.swissbox</groupId>
+      <artifactId>pax-swissbox-tracker</artifactId>
+      <name>OPS4J Pax Swissbox - Tracker</name>
+      <url>http://www.ops4j.org/projects/pax/swissbox/pax-swissbox-tracker</url>
+	  <organization>
+	    <name>OPS4J - Open Participation Software for Java</name>
+	    <url>http://www.ops4j.org/</url>
+	  </organization>
+      <licenses>
+        <license>
+          <name>The Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </project>
+  </supplement>
+  <supplement>
+    <project>
+      <groupId>org.ops4j.pax.url</groupId>
+      <artifactId>pax-url-mvn</artifactId>
+      <name>OPS4J Pax Url - mvn:</name>
+      <url>http://www.ops4j.org/projects/pax/url/pax-url-mvn</url>
+	  <organization>
+	    <name>OPS4J - Open Participation Software for Java</name>
+	    <url>http://www.ops4j.org/</url>
+	  </organization>
+      <licenses>
+        <license>
+          <name>The Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </project>
+  </supplement>
+  <supplement>
+    <project>
+      <groupId>org.ops4j.pax.url</groupId>
+      <artifactId>pax-url-war</artifactId>
+      <name>OPS4J Pax Url - war:</name>
+      <url>http://www.ops4j.org/projects/pax/url/pax-url-war</url>
+	  <organization>
+	    <name>OPS4J - Open Participation Software for Java</name>
+	    <url>http://www.ops4j.org/</url>
+	  </organization>
+      <licenses>
+        <license>
+          <name>The Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </project>
+  </supplement>
+  <supplement>
+    <project>
+      <groupId>org.ops4j.pax.web</groupId>
+      <artifactId>pax-web-bundle</artifactId>
+      <name>OPS4J Pax Web - Web Container</name>
+      <url>http://www.ops4j.org/projects/pax/web/pax-web-bundle</url>
+	  <organization>
+	    <name>OPS4J - Open Participation Software for Java</name>
+	    <url>http://www.ops4j.org/</url>
+	  </organization>
+      <licenses>
+        <license>
+          <name>The Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </project>
+  </supplement>
+  <supplement>
+    <project>
+      <groupId>org.ops4j.pax.web</groupId>
+      <artifactId>pax-web-jsp</artifactId>
+      <name>OPS4J Pax Web - JSP</name>
+      <url>http://www.ops4j.org/projects/pax/web/pax-web-jsp</url>
+	  <organization>
+	    <name>OPS4J - Open Participation Software for Java</name>
+	    <url>http://www.ops4j.org/</url>
+	  </organization>
+      <licenses>
+        <license>
+          <name>The Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </project>
+  </supplement>
+  <supplement>
+    <project>
+      <groupId>org.ops4j.pax.web-extender</groupId>
+      <artifactId>pax-web-ex-war</artifactId>
+      <name>OPS4J Pax Web Extender - WAR</name>
+      <url>http://www.ops4j.org/projects/pax/web-extender/pax-web-ex-war</url>
+	  <organization>
+	    <name>OPS4J - Open Participation Software for Java</name>
+	    <url>http://www.ops4j.org/</url>
+	  </organization>
+      <licenses>
+        <license>
+          <name>The Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </project>
+  </supplement>
+  <supplement>
+    <project>
+      <groupId>org.ops4j.pax.web-extender</groupId>
+      <artifactId>pax-web-ex-whiteboard</artifactId>
+      <name>OPS4J Pax Web Extender - Whiteboard</name>
+      <url>http://www.ops4j.org/projects/pax/web-extender/pax-web-ex-whiteboard</url>
+	  <organization>
+	    <name>OPS4J - Open Participation Software for Java</name>
+	    <url>http://www.ops4j.org/</url>
+	  </organization>
+      <licenses>
+        <license>
+          <name>The Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
     </project>
   </supplement>
 </supplementalDataModels>
